@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"INCREMENT\"},{\"type\":\"DECREMENT\"},{\"type\":\"INCREMENTbyTEN\"},{\"type\":\"DECREMENTbyTEN\"},{\"type\":\"INCREMENTbyTEN\"},{\"type\":\"INCREMENT\"},{\"type\":\"DECREMENT\"},{\"type\":\"RESET\"},{\"type\":\"INCREMENT\"},{\"type\":\"INCREMENTbyTEN\"},{\"type\":\"DECREMENTbyTEN\"},{\"type\":\"DECREMENT\"},{\"type\":\"INCREMENTbyTEN\"},{\"type\":\"RESET\"}]"
+}
